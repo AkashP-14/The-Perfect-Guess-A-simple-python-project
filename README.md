@@ -1,1 +1,1 @@
-This is a very simple project made from nothing but simple python code.
+These are very simple projects made from nothing but simple python code.
