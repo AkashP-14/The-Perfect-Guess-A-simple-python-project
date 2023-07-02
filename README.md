@@ -1,1 +1,1 @@
-These are very simple projects made from nothing but simple python code.
+These are small practice projects using python.
